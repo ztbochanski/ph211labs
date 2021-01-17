@@ -5,7 +5,7 @@ This repository contains all of the work, labs, and knowledge learned in [Bruce 
 ## JupyterLab Installation and Setup
 
 ### Install
-*"To remember how to set up jupyterlab"*  
+> *"To remember how to set up jupyterlab"*  
 
 Here is the [JupyterLab Documentation](https://jupyterlab.readthedocs.io/en/stable/)  
 

@@ -38,12 +38,32 @@ Nice, a virtual environment with python has been configured and is ready to go f
 
 ### Launch in Visual Studio Code
 
-Why would one want vscode? ...better IDE tools, and familiarity with commands etc.
+Why vscode? ...IDE tools, familiarity with commands etc.
 
 1. Download [Visual Studio Code](https://code.visualstudio.com)
 
 2. Open `.ipynb` files and edit.
 
+#### Features:
+> can edit `keybindings.json`
+
+<br />
+box-select => `shift-option` *alt for pc
+
+![box-select](https://github.com/ztbochanski/physics-211/raw/main/images/box-select.gif)
+
+<br />
+move => hold `option` *alt for pc
+
+![move](https://github.com/ztbochanski/physics-211/raw/main/images/drag.gif)
 
 
+<br />
+multi-line/multi-cursor => `option + click` *alt for pc
 
+![multi-cursor](https://github.com/ztbochanski/physics-211/raw/main/images/multi-line.gif)
+
+<br />
+multi-select => `cmd + d`
+
+![multi-select](https://github.com/ztbochanski/physics-211/raw/main/images/multi-select.gif)

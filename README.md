@@ -5,13 +5,13 @@ This repository contains all of the work, labs, and knowledge learned in [Bruce 
 ## JupyterLab Installation and Setup
 
 ### Install
-> *"To remember how to set up jupyterlab"*  
+> *"To remember the how, ...setting up jupyterlab :smiley:"*  
 
-Here is the [JupyterLab Documentation](https://jupyterlab.readthedocs.io/en/stable/)  
+Here lies [JupyterLab Documentation](https://jupyterlab.readthedocs.io/en/stable/)  
 
-Homebrew as a package manager: ```brew install jupyterlab``` in the terminal adds the jupyterlab package to local dev tools.  
+1. Add jupyterlab package: homebrew as a package manager: ```brew install jupyterlab``` in the terminal adds the jupyterlab package to local dev tools.  
 
-Here's the specific [homebrew formulae](https://formulae.brew.sh/formula/jupyterlab)  
+ - Here's the specific [homebrew formulae](https://formulae.brew.sh/formula/jupyterlab)  
 
 ###  Virtual development environment
 A good reason to set up a *virtual environment* is so all the development takes place within one isolated directory, and an isolated copy of python.
